@@ -1,3 +1,5 @@
+import '../css/ProductCard.css'
+
 const ProductCard = ({ product, addToCart }) => {
   return (
     <div key={product.id} className="card__product-card">
