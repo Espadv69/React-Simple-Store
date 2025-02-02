@@ -13,4 +13,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/1072/10728116/1959-ducky-one-2-pro-classic-mini-60-kailh-red-rgb-pbt-teclado-mecanico-negro-review.jpg',
   },
+  {
+    id: 3,
+    name: 'Gaming Headset',
+    price: 45.0,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/10/103069/ozone-rage-z90-gaming-headset-usb-negro.jpg',
+  },
 ]
