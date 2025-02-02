@@ -1,0 +1,9 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Wireless Mouse',
+    price: 25.99,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/39/395797/1400-steelseries-rival-3-wireless-raton-gaming-inalambrico-18000-dpi-negro.jpg',
+  },
+]
