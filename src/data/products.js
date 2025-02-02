@@ -34,4 +34,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/25/258324/1655-logitech-c920s-pro-webcam.jpg',
   },
+  {
+    id: 6,
+    name: 'Portable SSD 1TB',
+    price: 99.99,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/57/571838/1799-kingston-xs2000-portable-ssd-1tb-usb-32.jpg',
+  },
 ]
