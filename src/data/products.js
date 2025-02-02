@@ -27,4 +27,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/75/752904/1956-linq-7-en-1-pro-usb-c-hub-multipuerto-caracteristicas.jpg',
   },
+  {
+    id: 5,
+    name: 'Webcam HD 1080p',
+    price: 39.99,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/25/258324/1655-logitech-c920s-pro-webcam.jpg',
+  },
 ]
