@@ -8,8 +8,8 @@ const ProductCard = ({ product, addToCart }) => {
         alt={product.name}
         className="image__product-card"
       />
-      <h3 className="name__product-card">{product.name}</h3>
-      <p className="price__product-card">{product.price}</p>
+      <h4 className="name__product-card">{product.name}</h4>
+      <p className="price__product-card">${product.price}</p>
       <button
         className="addBtn__product-card"
         onClick={() => addToCart(product)}
