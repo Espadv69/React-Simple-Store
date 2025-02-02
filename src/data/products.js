@@ -6,4 +6,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/39/395797/1400-steelseries-rival-3-wireless-raton-gaming-inalambrico-18000-dpi-negro.jpg',
   },
+  {
+    id: 2,
+    name: 'Mechanical Keyboard',
+    price: 55.99,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/1072/10728116/1959-ducky-one-2-pro-classic-mini-60-kailh-red-rgb-pbt-teclado-mecanico-negro-review.jpg',
+  },
 ]
