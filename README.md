@@ -1,8 +1,36 @@
-# React + Vite
+# React Simple Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple store simulation built with React to practice `useState` and `useEffect`. Users can browse products, add them to a cart, and view the total price. This project is designed for learning React hooks in a beginner-friendly way.
 
-Currently, two official plugins are available:
+## Features
+- Display a list of products.
+- Add products to a shopping cart.
+- View total price calculation.
+- Store cart data in `localStorage` (optional).
+- Fetch product data from a JSON file or API (optional).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Espadv69/React-Simple-Store.git
+   cd React-Simple-Store
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+## Technologies Used
+- React
+- JavaScript (ES6+)
+- CSS (or your preferred styling approach)
+
+## Learning Goals
+- Understand `useState` for state management.
+- Use `useEffect` for side effects like fetching data.
+- Handle user interactions (adding/removing items from the cart).
