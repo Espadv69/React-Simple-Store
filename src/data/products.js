@@ -20,4 +20,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/10/103069/ozone-rage-z90-gaming-headset-usb-negro.jpg',
   },
+  {
+    id: 4,
+    name: 'USB-C Hub',
+    price: 29.99,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/75/752904/1956-linq-7-en-1-pro-usb-c-hub-multipuerto-caracteristicas.jpg',
+  },
 ]
