@@ -27,6 +27,7 @@ A simple store simulation built with React to practice `useState` and `useEffect
 
 ## Technologies Used
 - React
+  - Vite
 - JavaScript (ES6+)
 - CSS (or your preferred styling approach)
 
