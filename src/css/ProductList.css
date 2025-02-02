@@ -1,5 +1,9 @@
 .container__product-list {
   margin: 1rem auto;
+
+  width: 100%;
+  max-width: 1000px;
+
   display: grid;
   grid-template-columns: repeat(auto-fill, 200px);
   justify-content: center;
