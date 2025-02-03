@@ -41,4 +41,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/57/571838/1799-kingston-xs2000-portable-ssd-1tb-usb-32.jpg',
   },
+  {
+    id: 7,
+    name: 'Laptop Acer Aspire 3',
+    price: 499.0,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/1084/10847941/1454-acer-aspire-3-15-a315-44p-amd-ryzen-7-5700u-16gb-512-gb-ssd-156.jpg',
+  },
 ]
