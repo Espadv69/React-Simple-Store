@@ -3,22 +3,22 @@ const Cart = ({ cart }) => {
 
   return (
     <div>
-      <h2>Cart</h2>
+      <h2 className="h2__cart">Cart</h2>
       {cart.length ? (
         <>
-          <ul>
+          <ul className="ul__cart">
             {cart.map((item, index) => (
-              <li key={index}>
+              <li key={index} className="li__cart">
                 {item.name} - ${item.price.toFixed(2)}
               </li>
             ))}
           </ul>
           <p>
-            <strong>Total: ${total.toFixed(2)}</strong>
+            <strong className="price__cart">Total: ${total.toFixed(2)}</strong>
           </p>
         </>
       ) : (
-        <p>Your cart is empty.</p>
+        <p className="price__cart">Your cart is empty.</p>
       )}
     </div>
   )
