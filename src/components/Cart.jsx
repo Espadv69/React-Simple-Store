@@ -1,3 +1,5 @@
+import '../css/Cart.css'
+
 const Cart = ({ cart }) => {
   const total = cart.reduce((acc, item) => acc + item.price, 0)
 
