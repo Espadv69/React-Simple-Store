@@ -48,4 +48,11 @@ export const products = [
     image:
       'https://thumb.pccomponentes.com/w-530-530/articles/1084/10847941/1454-acer-aspire-3-15-a315-44p-amd-ryzen-7-5700u-16gb-512-gb-ssd-156.jpg',
   },
+  {
+    id: 8,
+    name: 'PcCom Ready AMD Ryzen 7',
+    price: 1209.0,
+    image:
+      'https://thumb.pccomponentes.com/w-530-530/articles/1078/10789838/1861-pccom-ready-amd-ryzen-7-5800x-32gb-1tb-ssd-rtx-4060-ti-review.jpg',
+  },
 ]
