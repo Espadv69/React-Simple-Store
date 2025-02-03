@@ -4,7 +4,7 @@ const Cart = ({ cart }) => {
   const total = cart.reduce((acc, item) => acc + item.price, 0)
 
   return (
-    <div>
+    <div className='container__cart'>
       <h2 className="h2__cart">Cart</h2>
       {cart.length ? (
         <>
