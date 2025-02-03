@@ -4,3 +4,7 @@
   color: whitesmoke;
   background: #0066ff;
 }
+
+.ul__cart {
+  list-style: none;
+}
