@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Simple React Store</h1>
+      <h1 className="h1-title">Simple React Store</h1>
       <ProductList addToCart={addToCart} />
       <Cart cart={cart} />
     </div>
